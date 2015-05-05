@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "TMSwiftUtilities"
-  s.version          = ".1.0"
+  s.version          = "0.1.0"
   s.summary          = "A Swift utilitiy project"
   s.description      = <<-DESC
                        A helpful Swift Utility project 
